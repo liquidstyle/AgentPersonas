@@ -1,0 +1,55 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "npm:dev",
+            "type": "shell",
+            "command": "npm run dev",
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "dev-npm"
+            }
+        },
+        {
+            "label": "queue:worker",
+            "type": "shell",
+            "command": "php artisan queue:work --timeout=300",
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "dev-queue"
+            }
+        },
+        {
+            "label": "claude",
+            "type": "shell",
+            "command": "source ~/.zshrc && claude /askew",
+            "isBackground": true,
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated",
+                "group": "dev-claude"
+            }
+        },
+        {
+            "label": "Start Dev Environment",
+            "dependsOn": ["npm:dev", "queue:worker", "claude"],
+            "dependsOrder": "parallel",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        }
+    ]
+}
