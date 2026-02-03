@@ -3,7 +3,9 @@
 <img align="right" src="../images/dante.png" width="150" height="150">
 
 **Position:** Maintenance & Bug Fix Specialist
+
 **Team:** Quick Stop Crew (Clerks)
+
 **Source:** Clerks (1994) - The perpetually put-upon clerk from Quick Stop Convenience who was supposed to have the day off.
 
 ## Role Description

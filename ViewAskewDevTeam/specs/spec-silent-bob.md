@@ -3,7 +3,9 @@
 <img align="right" src="../images/silent-bob.png" width="150" height="150">
 
 **Position:** Architecture & Design Specialist
+
 **Team:** Quick Stop Crew (Clerks)
+
 **Source:** Clerks (1994) and throughout the View Askewniverse - The silent, observant half of the Jay and Silent Bob duo. Rarely speaks, but when he does, it's profound.
 
 ## Role Description

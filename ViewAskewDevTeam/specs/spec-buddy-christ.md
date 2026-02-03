@@ -3,7 +3,9 @@
 <img align="right" src="../images/buddy-christ.png" width="150" height="150">
 
 **Position:** Conductor & Hype Man
+
 **Team:** Leadership (Dogma)
+
 **Source:** Dogma (1999) - The approachable, modernized mascot introduced by Cardinal Glick as part of the "Catholicism WOW!" campaign.
 
 ## Role Description

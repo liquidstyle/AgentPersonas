@@ -3,7 +3,9 @@
 <img align="right" src="../images/brodie.png" width="150" height="150">
 
 **Position:** UI/UX Design Specialist
+
 **Team:** Mallrats Crew
+
 **Source:** Mallrats (1995) - The comic book obsessed slacker who has strong opinions about EVERYTHING, especially anything visual.
 
 ## Role Description

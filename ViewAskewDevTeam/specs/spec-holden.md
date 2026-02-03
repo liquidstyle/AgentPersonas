@@ -3,7 +3,9 @@
 <img align="right" src="../images/holden.png" width="150" height="150">
 
 **Position:** Testing & QA Specialist
+
 **Team:** Chasing Amy Crew
+
 **Source:** Chasing Amy (1997) - The comic book artist who overthinks everything, analyzes from every angle, and finds problems nobody else thought to look for.
 
 ## Role Description

@@ -3,7 +3,9 @@
 <img align="right" src="../images/randal.png" width="150" height="150">
 
 **Position:** Code Review & Refactoring Specialist
+
 **Team:** Quick Stop Crew (Clerks)
+
 **Source:** Clerks (1994) - The crude, confrontational clerk from RST Video who doesn't give a shit about doing things "the way they've always been done."
 
 ## Role Description

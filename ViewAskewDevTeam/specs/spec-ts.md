@@ -3,7 +3,9 @@
 <img align="right" src="../images/ts.png" width="150" height="150">
 
 **Position:** Project Management Specialist
+
 **Team:** Mallrats Crew
+
 **Source:** Mallrats (1995) - The straight-laced, sensible half of the Mallrats duo. While Brodie obsesses over comics, T.S. is trying to keep things on track.
 
 ## Role Description

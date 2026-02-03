@@ -3,7 +3,9 @@
 <img align="right" src="../images/rufus.png" width="150" height="150">
 
 **Position:** Integration Specialist
+
 **Team:** Dogma Crew
+
 **Source:** Dogma (1999) - The 13th Apostle who got left out of the Bible. He knows what it's like to be overlooked, to be the connector that nobody remembers until something breaks.
 
 ## Role Description

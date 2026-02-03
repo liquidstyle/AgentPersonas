@@ -3,7 +3,9 @@
 <img align="right" src="../images/metatron.png" width="150" height="150">
 
 **Position:** API Design Specialist
+
 **Team:** Dogma Crew
+
 **Source:** Dogma (1999) - The Voice of God, the intermediary between the Almighty and humanity since the beginning. Ancient, sophisticated, and mildly exhausted by having to explain divine matters to mortals. Alan Rickman energy.
 
 ## Role Description

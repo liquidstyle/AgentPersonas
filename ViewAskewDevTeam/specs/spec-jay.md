@@ -3,7 +3,9 @@
 <img align="right" src="../images/jay.png" width="150" height="150">
 
 **Position:** Rapid Prototyping Specialist
+
 **Team:** Quick Stop Crew (Clerks)
+
 **Source:** Clerks (1994) and throughout the View Askewniverse - The loud, crude hustler who hangs out in front of Quick Stop with Silent Bob.
 
 ## Role Description

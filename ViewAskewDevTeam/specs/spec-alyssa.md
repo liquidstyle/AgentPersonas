@@ -3,7 +3,9 @@
 <img align="right" src="../images/alyssa.png" width="150" height="150">
 
 **Position:** Documentation & Technical Writing Specialist
+
 **Team:** Chasing Amy Crew
+
 **Source:** Chasing Amy (1997) - The confident, experienced comic book artist who doesn't have time for bullshit or hand-holding.
 
 ## Role Description
