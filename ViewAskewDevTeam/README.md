@@ -1,5 +1,7 @@
 # The Askewniverse Development Team 👍😉
 
+![The Askewniverse Development Team](./images/banner.png)
+
 > A character-driven development team for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), inspired by Kevin Smith's View Askewniverse
 
 The Askewniverse Development Team brings the beloved characters from Clerks, Mallrats, Chasing Amy, and Dogma to your coding workflow. Twelve specialists who handle everything from architecture to testing - each with the authentic personality of their film counterpart.
@@ -69,40 +71,40 @@ cd ViewAskewDevTeam
 
 ### Leadership (Dogma)
 
-| Specialist | Role | Catchphrase |
-|------------|------|-------------|
-| **Buddy Christ** 👍 | Entry Point & Hype | "Catholicism WOW!" |
-| **Bethany** 😤 | Product Owner | "I helped save the universe surrounded by idiots." |
+| | Specialist | Role | Catchphrase |
+|:--:|------------|------|-------------|
+| <img src="./images/buddy-christ.png" width="150" height="150"> | **Buddy Christ** 👍 | Entry Point & Hype | "Catholicism WOW!" |
+| <img src="./images/bethany.png" width="150" height="150"> | **Bethany** 😤 | Product Owner | "I helped save the universe surrounded by idiots." |
 
 ### Quick Stop Crew (Clerks)
 
-| Specialist | Role | Catchphrase |
-|------------|------|-------------|
-| **Dante** 😩 | Bug Fixes | "I'm not even supposed to be here today..." |
-| **Randal** 🙄 | Code Review | "Did you even test this?" |
-| **Jay** 🤙 | Rapid Prototyping | "SNOOGANS!" |
-| **Silent Bob** 🤫 | Architecture | *nods meaningfully* |
+| | Specialist | Role | Catchphrase |
+|:--:|------------|------|-------------|
+| <img src="./images/dante.png" width="150" height="150"> | **Dante** 😩 | Bug Fixes | "I'm not even supposed to be here today..." |
+| <img src="./images/randal.png" width="150" height="150"> | **Randal** 🙄 | Code Review | "Did you even test this?" |
+| <img src="./images/jay.png" width="150" height="150"> | **Jay** 🤙 | Rapid Prototyping | "SNOOGANS!" |
+| <img src="./images/silent-bob.png" width="150" height="150"> | **Silent Bob** 🤫 | Architecture | *nods meaningfully* |
 
 ### Mallrats Crew
 
-| Specialist | Role | Catchphrase |
-|------------|------|-------------|
-| **Brodie** 🦸 | UI/UX Design | "Trust me on this. I've thought about it. A LOT." |
-| **T.S.** 📋 | Project Management | "Let's break this down into tasks." |
+| | Specialist | Role | Catchphrase |
+|:--:|------------|------|-------------|
+| <img src="./images/brodie.png" width="150" height="150"> | **Brodie** 🦸 | UI/UX Design | "Trust me on this. I've thought about it. A LOT." |
+| <img src="./images/ts.png" width="150" height="150"> | **T.S.** 📋 | Project Management | "Let's break this down into tasks." |
 
 ### Chasing Amy Crew
 
-| Specialist | Role | Catchphrase |
-|------------|------|-------------|
-| **Alyssa** 📝 | Documentation | "Here's what you actually need to know." |
-| **Holden** 🔍 | Testing & QA | "If it's not tested, it's broken." |
+| | Specialist | Role | Catchphrase |
+|:--:|------------|------|-------------|
+| <img src="./images/alyssa.png" width="150" height="150"> | **Alyssa** 📝 | Documentation | "Here's what you actually need to know." |
+| <img src="./images/holden.png" width="150" height="150"> | **Holden** 🔍 | Testing & QA | "If it's not tested, it's broken." |
 
 ### Dogma Crew
 
-| Specialist | Role | Catchphrase |
-|------------|------|-------------|
-| **Metatron** 😏 | API Design | "An API is a contract. Breaking contracts has consequences." |
-| **Rufus** 😤 | Integrations | "Every external dependency is a point of failure." |
+| | Specialist | Role | Catchphrase |
+|:--:|------------|------|-------------|
+| <img src="./images/metatron.png" width="150" height="150"> | **Metatron** 😏 | API Design | "An API is a contract. Breaking contracts has consequences." |
+| <img src="./images/rufus.png" width="150" height="150"> | **Rufus** 😤 | Integrations | "Every external dependency is a point of failure." |
 
 ### How It Works
 

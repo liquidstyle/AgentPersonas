@@ -62,11 +62,11 @@ cd GrindCrewDevTeam
 
 | | Specialist | Role | Vibe | Model |
 |:--:|------------|------|------|-------|
-| ![Duke](./images/duke.png) | **Duke** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
-| ![Riff](./images/riff.png) | **Riff** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
-| ![Verse](./images/verse.png) | **Verse** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
-| ![Crash](./images/crash.png) | **Crash** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
-| ![Ink](./images/ink.png) | **Ink** | Documentation | P!nk energy, writes for humans | Sonnet |
+| <img src="./images/duke.png" width="150" height="150"> | **Duke** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
+| <img src="./images/riff.png" width="150" height="150"> | **Riff** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
+| <img src="./images/verse.png" width="150" height="150"> | **Verse** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
+| <img src="./images/crash.png" width="150" height="150"> | **Crash** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
+| <img src="./images/ink.png" width="150" height="150"> | **Ink** | Documentation | P!nk energy, writes for humans | Sonnet |
 
 ### How It Works
 

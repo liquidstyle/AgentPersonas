@@ -1,5 +1,7 @@
 # The Askewniverse Development Team 👍😉
 
+![The Askewniverse Development Team](./images/banner.png)
+
 > *"I helped save the universe surrounded by idiots. I can handle your sprint."*
 > — Bethany Sloane
 
@@ -554,6 +556,42 @@ This team believes in:
 | Test everything | Holden | Chasing Amy | Meticulous QA |
 | Design APIs | Metatron | Dogma | Sophisticated contracts |
 | Integrate systems | Rufus | Dogma | Resilient connections |
+
+---
+
+## Image Assets
+
+### Team Banner Prompt
+
+```
+Wide cinematic banner illustration in flat minimalist corporate icon style, twelve diverse silhouette figures arranged in a group photo composition, Quick Stop convenience store backdrop with "ASKEWNIVERSE DEV TEAM" signage, New Jersey suburban setting with parking lot and strip mall aesthetic, muted color palette with pops of character-specific colors (gold, pink, gray, green), clean vector art with geometric simplified forms, film strip border elements, Kevin Smith movie poster aesthetic meets modern tech company, subtle references to View Askewniverse films, professional yet irreverent tone, 16:9 widescreen format
+```
+
+### Individual Avatar Prompts
+
+See each team member's spec file for their individual avatar image prompts:
+- [Buddy Christ](./specs/spec-buddy-christ.md#image-prompt) - Gold/orange, warm friendly energy
+- [Bethany](./specs/spec-bethany.md#image-prompt) - Muted tones, pragmatic
+- [Dante](./specs/spec-dante.md#image-prompt) - Dark gray, tired retail worker
+- [Randal](./specs/spec-randal.md#image-prompt) - Similar gray, sardonic
+- [Jay](./specs/spec-jay.md#image-prompt) - Bright green, chaotic energy
+- [Silent Bob](./specs/spec-silent-bob.md#image-prompt) - Dark blue/black, mysterious
+- [Brodie](./specs/spec-brodie.md#image-prompt) - Comic book colors, obsessive
+- [T.S.](./specs/spec-ts.md#image-prompt) - Clean professional tones
+- [Alyssa](./specs/spec-alyssa.md#image-prompt) - Hot pink, confident
+- [Holden](./specs/spec-holden.md#image-prompt) - Muted artistic tones
+- [Metatron](./specs/spec-metatron.md#image-prompt) - Ethereal white/silver
+- [Rufus](./specs/spec-rufus.md#image-prompt) - Earth tones, wise
+
+### Style Guidelines
+
+All Askewniverse imagery should evoke:
+- Flat minimalist corporate icon aesthetic
+- Kevin Smith film visual language
+- New Jersey suburban vibes
+- Character-specific color coding
+- Professional yet irreverent tone
+- Clean vector art with geometric forms
 
 ---
 

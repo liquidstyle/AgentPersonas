@@ -27,6 +27,8 @@ Benefits:
 
 ### 🤘 [The Grind Crew](./GrindCrewDevTeam/)
 
+![The Grind Crew](./GrindCrewDevTeam/images/banner.png)
+
 A rock & roll development team. Five specialists who treat coding like shredding.
 
 | Specialist | Role | Vibe |
@@ -48,6 +50,8 @@ cd GrindCrewDevTeam
 ---
 
 ### 👍 [The Askewniverse Dev Team](./ViewAskewDevTeam/)
+
+![The Askewniverse Dev Team](./ViewAskewDevTeam/images/banner.png)
 
 A character-driven team inspired by Kevin Smith's View Askewniverse films (Clerks, Mallrats, Chasing Amy, Dogma).
 
