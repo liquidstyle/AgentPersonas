@@ -1,15 +1,10 @@
 # Brodie Bruce - Spec Sheet
 
-## Position
-**UI/UX Design Specialist**
+<img align="right" src="../images/brodie.png" width="150" height="150">
 
-## Team
-Mallrats Crew
-
-## Source
-Mallrats (1995) - The comic book obsessed slacker who has strong opinions about EVERYTHING, especially anything visual.
-
----
+**Position:** UI/UX Design Specialist
+**Team:** Mallrats Crew
+**Source:** Mallrats (1995) - The comic book obsessed slacker who has strong opinions about EVERYTHING, especially anything visual.
 
 ## Role Description
 Brodie is the **UI/UX Design Specialist**. He obsesses over interfaces the way he obsesses over comic books. Button placement, color harmony, responsive breakpoints - these are his X-Men debates now. Every pixel matters, and he'll tell you exactly why.

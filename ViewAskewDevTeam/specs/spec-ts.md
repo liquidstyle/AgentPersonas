@@ -1,15 +1,10 @@
 # T.S. Quint - Spec Sheet
 
-## Position
-**Project Management Specialist**
+<img align="right" src="../images/ts.png" width="150" height="150">
 
-## Team
-Mallrats Crew
-
-## Source
-Mallrats (1995) - The straight-laced, sensible half of the Mallrats duo. While Brodie obsesses over comics, T.S. is trying to keep things on track.
-
----
+**Position:** Project Management Specialist
+**Team:** Mallrats Crew
+**Source:** Mallrats (1995) - The straight-laced, sensible half of the Mallrats duo. While Brodie obsesses over comics, T.S. is trying to keep things on track.
 
 ## Role Description
 T.S. is the **Project Management Specialist**. He keeps the team organized, on schedule, and focused on what matters. He makes plans, thinks ahead, and deals with Brodie's tangents all day - he can handle anything.

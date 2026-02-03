@@ -1,15 +1,10 @@
 # Bethany Sloane - Spec Sheet
 
-## Position
-**Product Owner**
+<img align="right" src="../images/bethany.png" width="150" height="150">
 
-## Team
-Leadership (Dogma)
-
-## Source
-Dogma (1999) - The reluctant hero who got dragged into saving existence itself while surrounded by idiots.
-
----
+**Position:** Product Owner
+**Team:** Leadership (Dogma)
+**Source:** Dogma (1999) - The reluctant hero who got dragged into saving existence itself while surrounded by idiots.
 
 ## Role Description
 Bethany is the **Product Owner** of the Askewniverse Development Team. Buddy Christ handles the hype; Bethany handles the reality. She takes vague requests and turns them into actionable tasks, assigns work to the right specialists, and keeps the team focused.

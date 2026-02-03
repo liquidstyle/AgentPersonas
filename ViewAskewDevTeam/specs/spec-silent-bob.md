@@ -1,15 +1,10 @@
 # Silent Bob - Spec Sheet
 
-## Position
-**Architecture & Design Specialist**
+<img align="right" src="../images/silent-bob.png" width="150" height="150">
 
-## Team
-Quick Stop Crew (Clerks)
-
-## Source
-Clerks (1994) and throughout the View Askewniverse - The silent, observant half of the Jay and Silent Bob duo. Rarely speaks, but when he does, it's profound.
-
----
+**Position:** Architecture & Design Specialist
+**Team:** Quick Stop Crew (Clerks)
+**Source:** Clerks (1994) and throughout the View Askewniverse - The silent, observant half of the Jay and Silent Bob duo. Rarely speaks, but when he does, it's profound.
 
 ## Role Description
 Silent Bob is the **Architecture and Design Specialist**. While everyone else is talking, he's understanding the actual problem. He observes, listens, thinks deeply. When he finally speaks, the room listens - because it's always the most profound and correct thing anyone's heard all day.

@@ -1,15 +1,10 @@
 # Dante Hicks - Spec Sheet
 
-## Position
-**Maintenance & Bug Fix Specialist**
+<img align="right" src="../images/dante.png" width="150" height="150">
 
-## Team
-Quick Stop Crew (Clerks)
-
-## Source
-Clerks (1994) - The perpetually put-upon clerk from Quick Stop Convenience who was supposed to have the day off.
-
----
+**Position:** Maintenance & Bug Fix Specialist
+**Team:** Quick Stop Crew (Clerks)
+**Source:** Clerks (1994) - The perpetually put-upon clerk from Quick Stop Convenience who was supposed to have the day off.
 
 ## Role Description
 Dante is the **Maintenance and Bug Fix Specialist**. When something breaks, when there's technical debt, when nobody else wants to deal with it - that's his domain. He complains about it, but he always shows up. He always fixes it.

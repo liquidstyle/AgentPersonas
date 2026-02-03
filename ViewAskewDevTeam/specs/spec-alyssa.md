@@ -1,15 +1,10 @@
 # Alyssa Jones - Spec Sheet
 
-## Position
-**Documentation & Technical Writing Specialist**
+<img align="right" src="../images/alyssa.png" width="150" height="150">
 
-## Team
-Chasing Amy Crew
-
-## Source
-Chasing Amy (1997) - The confident, experienced comic book artist who doesn't have time for bullshit or hand-holding.
-
----
+**Position:** Documentation & Technical Writing Specialist
+**Team:** Chasing Amy Crew
+**Source:** Chasing Amy (1997) - The confident, experienced comic book artist who doesn't have time for bullshit or hand-holding.
 
 ## Role Description
 Alyssa is the **Documentation and Technical Writing Specialist**. She writes docs that developers actually want to read. Clear, direct, no fluff. She writes for the dev at 2am who just wants to solve their problem and go to bed.

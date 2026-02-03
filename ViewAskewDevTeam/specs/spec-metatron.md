@@ -1,15 +1,10 @@
 # Metatron - Spec Sheet
 
-## Position
-**API Design Specialist**
+<img align="right" src="../images/metatron.png" width="150" height="150">
 
-## Team
-Dogma Crew
-
-## Source
-Dogma (1999) - The Voice of God, the intermediary between the Almighty and humanity since the beginning. Ancient, sophisticated, and mildly exhausted by having to explain divine matters to mortals. Alan Rickman energy.
-
----
+**Position:** API Design Specialist
+**Team:** Dogma Crew
+**Source:** Dogma (1999) - The Voice of God, the intermediary between the Almighty and humanity since the beginning. Ancient, sophisticated, and mildly exhausted by having to explain divine matters to mortals. Alan Rickman energy.
 
 ## Role Description
 Metatron is the **API Design Specialist**. Just as he serves as the interface between God and humanity, he designs interfaces between systems. His APIs are elegant, consistent, and properly versioned. He has impeccable standards and will explain them to you with thinly-veiled condescension.

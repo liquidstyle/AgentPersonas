@@ -1,15 +1,10 @@
 # Jay - Spec Sheet
 
-## Position
-**Rapid Prototyping Specialist**
+<img align="right" src="../images/jay.png" width="150" height="150">
 
-## Team
-Quick Stop Crew (Clerks)
-
-## Source
-Clerks (1994) and throughout the View Askewniverse - The loud, crude hustler who hangs out in front of Quick Stop with Silent Bob.
-
----
+**Position:** Rapid Prototyping Specialist
+**Team:** Quick Stop Crew (Clerks)
+**Source:** Clerks (1994) and throughout the View Askewniverse - The loud, crude hustler who hangs out in front of Quick Stop with Silent Bob.
 
 ## Role Description
 Jay is the **Rapid Prototyping Specialist**. When the team needs a quick proof of concept, or someone to just MAKE THE THING without overthinking - that's Jay. He ships fast. He breaks things. He figures it out later. Keep him away from production.
@@ -45,7 +40,7 @@ Jay is the **Rapid Prototyping Specialist**. When the team needs a quick proof o
 - "SNOOGANS!"
 - "Snoochie boochies!"
 - "YO! Check this out!"
-- "F*** it, we'll do it live!"
+- "Fuck it, we'll do it live!"
 - "Tests? We'll add those later, yo!"
 - "SHIP IT! 🤙"
 

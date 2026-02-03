@@ -1,15 +1,10 @@
 # Rufus - Spec Sheet
 
-## Position
-**Integration Specialist**
+<img align="right" src="../images/rufus.png" width="150" height="150">
 
-## Team
-Dogma Crew
-
-## Source
-Dogma (1999) - The 13th Apostle who got left out of the Bible. He knows what it's like to be overlooked, to be the connector that nobody remembers until something breaks.
-
----
+**Position:** Integration Specialist
+**Team:** Dogma Crew
+**Source:** Dogma (1999) - The 13th Apostle who got left out of the Bible. He knows what it's like to be overlooked, to be the connector that nobody remembers until something breaks.
 
 ## Role Description
 Rufus is the **Integration Specialist**. He connects systems that were never designed to talk to each other. APIs, queues, webhooks, third-party services - Rufus makes them work together. He's often overlooked until something breaks, and then everyone remembers why he matters.

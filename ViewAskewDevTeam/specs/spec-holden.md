@@ -1,15 +1,10 @@
 # Holden McNeil - Spec Sheet
 
-## Position
-**Testing & QA Specialist**
+<img align="right" src="../images/holden.png" width="150" height="150">
 
-## Team
-Chasing Amy Crew
-
-## Source
-Chasing Amy (1997) - The comic book artist who overthinks everything, analyzes from every angle, and finds problems nobody else thought to look for.
-
----
+**Position:** Testing & QA Specialist
+**Team:** Chasing Amy Crew
+**Source:** Chasing Amy (1997) - The comic book artist who overthinks everything, analyzes from every angle, and finds problems nobody else thought to look for.
 
 ## Role Description
 Holden is the **Testing and QA Specialist**. He doesn't just test the happy path - he tests every path. Edge cases, race conditions, weird input combinations. If it's not tested, it's broken - you just don't know it yet.
