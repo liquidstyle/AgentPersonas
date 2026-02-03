@@ -12,11 +12,11 @@ This is a **Claude Code agent team** - a collection of specialized AI personas t
 
 | Crew | Members | Domains |
 |------|---------|---------|
-| **Leadership** | Buddy Christ, Bethany | Routing, orchestration |
-| **Quick Stop** | Dante, Randal, Jay, Silent Bob | Bugs, reviews, prototyping, architecture |
-| **Mallrats** | Brodie, T.S. | UI/UX, project management |
-| **Chasing Amy** | Alyssa, Holden | Documentation, testing |
-| **Dogma** | Metatron, Rufus | API design, integrations |
+| **Leadership** | [Buddy Christ](./specs/spec-buddy-christ.md), [Bethany](./specs/spec-bethany.md) | Routing, orchestration |
+| **Quick Stop** | [Dante](./specs/spec-dante.md), [Randal](./specs/spec-randal.md), [Jay](./specs/spec-jay.md), [Silent Bob](./specs/spec-silent-bob.md) | Bugs, reviews, prototyping, architecture |
+| **Mallrats** | [Brodie](./specs/spec-brodie.md), [T.S.](./specs/spec-ts.md) | UI/UX, project management |
+| **Chasing Amy** | [Alyssa](./specs/spec-alyssa.md), [Holden](./specs/spec-holden.md) | Documentation, testing |
+| **Dogma** | [Metatron](./specs/spec-metatron.md), [Rufus](./specs/spec-rufus.md) | API design, integrations |
 
 Each specialist has their own personality, expertise, catchphrases, and communication style - making development more engaging and ensuring the right skills are applied to each task.
 
@@ -73,38 +73,38 @@ cd ViewAskewDevTeam
 
 | | Specialist | Role | Catchphrase |
 |:--:|------------|------|-------------|
-| <img src="./images/buddy-christ.png" width="150" height="150"> | **Buddy Christ** 👍 | Entry Point & Hype | "Catholicism WOW!" |
-| <img src="./images/bethany.png" width="150" height="150"> | **Bethany** 😤 | Product Owner | "I helped save the universe surrounded by idiots." |
+| <img src="./images/buddy-christ.png" width="150" height="150"> | **[Buddy Christ](./specs/spec-buddy-christ.md)** 👍 | Entry Point & Hype | "Catholicism WOW!" |
+| <img src="./images/bethany.png" width="150" height="150"> | **[Bethany](./specs/spec-bethany.md)** 😤 | Product Owner | "I helped save the universe surrounded by idiots." |
 
 ### Quick Stop Crew (Clerks)
 
 | | Specialist | Role | Catchphrase |
 |:--:|------------|------|-------------|
-| <img src="./images/dante.png" width="150" height="150"> | **Dante** 😩 | Bug Fixes | "I'm not even supposed to be here today..." |
-| <img src="./images/randal.png" width="150" height="150"> | **Randal** 🙄 | Code Review | "Did you even test this?" |
-| <img src="./images/jay.png" width="150" height="150"> | **Jay** 🤙 | Rapid Prototyping | "SNOOGANS!" |
-| <img src="./images/silent-bob.png" width="150" height="150"> | **Silent Bob** 🤫 | Architecture | *nods meaningfully* |
+| <img src="./images/dante.png" width="150" height="150"> | **[Dante](./specs/spec-dante.md)** 😩 | Bug Fixes | "I'm not even supposed to be here today..." |
+| <img src="./images/randal.png" width="150" height="150"> | **[Randal](./specs/spec-randal.md)** 🙄 | Code Review | "Did you even test this?" |
+| <img src="./images/jay.png" width="150" height="150"> | **[Jay](./specs/spec-jay.md)** 🤙 | Rapid Prototyping | "SNOOGANS!" |
+| <img src="./images/silent-bob.png" width="150" height="150"> | **[Silent Bob](./specs/spec-silent-bob.md)** 🤫 | Architecture | *nods meaningfully* |
 
 ### Mallrats Crew
 
 | | Specialist | Role | Catchphrase |
 |:--:|------------|------|-------------|
-| <img src="./images/brodie.png" width="150" height="150"> | **Brodie** 🦸 | UI/UX Design | "Trust me on this. I've thought about it. A LOT." |
-| <img src="./images/ts.png" width="150" height="150"> | **T.S.** 📋 | Project Management | "Let's break this down into tasks." |
+| <img src="./images/brodie.png" width="150" height="150"> | **[Brodie](./specs/spec-brodie.md)** 🦸 | UI/UX Design | "Trust me on this. I've thought about it. A LOT." |
+| <img src="./images/ts.png" width="150" height="150"> | **[T.S.](./specs/spec-ts.md)** 📋 | Project Management | "Let's break this down into tasks." |
 
 ### Chasing Amy Crew
 
 | | Specialist | Role | Catchphrase |
 |:--:|------------|------|-------------|
-| <img src="./images/alyssa.png" width="150" height="150"> | **Alyssa** 📝 | Documentation | "Here's what you actually need to know." |
-| <img src="./images/holden.png" width="150" height="150"> | **Holden** 🔍 | Testing & QA | "If it's not tested, it's broken." |
+| <img src="./images/alyssa.png" width="150" height="150"> | **[Alyssa](./specs/spec-alyssa.md)** 📝 | Documentation | "Here's what you actually need to know." |
+| <img src="./images/holden.png" width="150" height="150"> | **[Holden](./specs/spec-holden.md)** 🔍 | Testing & QA | "If it's not tested, it's broken." |
 
 ### Dogma Crew
 
 | | Specialist | Role | Catchphrase |
 |:--:|------------|------|-------------|
-| <img src="./images/metatron.png" width="150" height="150"> | **Metatron** 😏 | API Design | "An API is a contract. Breaking contracts has consequences." |
-| <img src="./images/rufus.png" width="150" height="150"> | **Rufus** 😤 | Integrations | "Every external dependency is a point of failure." |
+| <img src="./images/metatron.png" width="150" height="150"> | **[Metatron](./specs/spec-metatron.md)** 😏 | API Design | "An API is a contract. Breaking contracts has consequences." |
+| <img src="./images/rufus.png" width="150" height="150"> | **[Rufus](./specs/spec-rufus.md)** 😤 | Integrations | "Every external dependency is a point of failure." |
 
 ### How It Works
 

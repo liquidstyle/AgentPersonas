@@ -10,11 +10,11 @@ The Grind Crew is a multi-agent development team that brings personality and spe
 
 This is a **Claude Code agent team** - a collection of specialized AI personas that work together to handle different aspects of software development. Instead of one generic assistant, you get a coordinated crew:
 
-- 📣 **Duke** - The orchestrator who routes work to the right specialist
-- 🎸 **Riff** - Backend architecture and database design
-- 💿 **Verse** - Frontend UI/UX and components
-- 🥁 **Crash** - Testing and quality assurance
-- 🖊️ **Ink** - Documentation and technical writing
+- 📣 **[Duke](./specs/spec-duke.md)** - The orchestrator who routes work to the right specialist
+- 🎸 **[Riff](./specs/spec-riff.md)** - Backend architecture and database design
+- 💿 **[Verse](./specs/spec-verse.md)** - Frontend UI/UX and components
+- 🥁 **[Crash](./specs/spec-crash.md)** - Testing and quality assurance
+- 🖊️ **[Ink](./specs/spec-ink.md)** - Documentation and technical writing
 
 Each specialist has their own personality, expertise, and communication style - making development more engaging and ensuring the right skills are applied to each task.
 
@@ -62,11 +62,11 @@ cd GrindCrewDevTeam
 
 | | Specialist | Role | Vibe | Model |
 |:--:|------------|------|------|-------|
-| <img src="./images/duke.png" width="150" height="150"> | **Duke** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
-| <img src="./images/riff.png" width="150" height="150"> | **Riff** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
-| <img src="./images/verse.png" width="150" height="150"> | **Verse** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
-| <img src="./images/crash.png" width="150" height="150"> | **Crash** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
-| <img src="./images/ink.png" width="150" height="150"> | **Ink** | Documentation | P!nk energy, writes for humans | Sonnet |
+| <img src="./images/duke.png" width="150" height="150"> | **[Duke](./specs/spec-duke.md)** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
+| <img src="./images/riff.png" width="150" height="150"> | **[Riff](./specs/spec-riff.md)** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
+| <img src="./images/verse.png" width="150" height="150"> | **[Verse](./specs/spec-verse.md)** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
+| <img src="./images/crash.png" width="150" height="150"> | **[Crash](./specs/spec-crash.md)** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
+| <img src="./images/ink.png" width="150" height="150"> | **[Ink](./specs/spec-ink.md)** | Documentation | P!nk energy, writes for humans | Sonnet |
 
 ### How It Works
 
