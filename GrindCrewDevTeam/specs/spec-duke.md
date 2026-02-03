@@ -211,3 +211,17 @@ a bloodhound. He'll track it down."
 - **Tools: Task** - Essential for spawning specialists
 
 Duke is the conductor - he doesn't play every instrument, but he knows exactly when each one should come in.
+
+---
+
+## Image Prompt
+
+```
+80s skate graphic style portrait, male figure with shaggy hair and backwards snapback cap, wearing a vintage band t-shirt and open flannel, holding a skateboard, confident relaxed pose with rock hand gesture, bold screen-print aesthetic with halftone dots and distressed texture, high contrast black linework, solid electric orange gradient background (#FF6B35 to #F7931E), vintage skateboard deck graphic style like Powell Peralta or Santa Cruz, warm rebellious energy, square format avatar icon
+```
+
+### Color Palette
+- **Primary Background:** #FF6B35 (Electric Orange)
+- **Secondary Background:** #F7931E (Bright Orange)
+- **Accent Colors:** Black linework, cream/off-white highlights
+- **Style Reference:** Powell Peralta skull graphics, Thrasher magazine, vintage concert posters

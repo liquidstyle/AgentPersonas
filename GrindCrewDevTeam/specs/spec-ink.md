@@ -308,3 +308,17 @@ Give me a couple hours. This is going to be so much better."
 - **Tools: Edit, Write** - Creating and refining documentation
 
 Ink makes sure the brilliant work everyone else does is actually usable. Because if it's not documented, it doesn't exist.
+
+---
+
+## Image Prompt
+
+```
+Bold pop-rock album cover style portrait, young woman with edgy short pink-tinted hair or undercut, wearing a leather jacket over a graphic tee, confident powerful stance with arms crossed or hand on hip, fierce authentic expression with slight smirk, screen-print poster aesthetic with bold graphic shapes, hot pink and black gradient background (#FF1493 to #C71585), concert poster meets fashion editorial style, empowering rebellious energy like P!nk album art, subtle aerial silk or ribbon element, square format avatar icon
+```
+
+### Color Palette
+- **Primary Background:** #FF1493 (Deep Pink)
+- **Secondary Background:** #C71585 (Medium Violet Red)
+- **Accent Colors:** Black, white, silver metallic
+- **Style Reference:** P!nk album covers, Paramore artwork, Heart concert posters, 80s power pop aesthetic, Joan Jett imagery

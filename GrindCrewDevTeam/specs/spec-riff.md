@@ -259,3 +259,17 @@ problems without blocking tomorrow's possibilities."
 - **Tools: Bash** - Database migrations, testing, validation
 
 Riff is the foundation. Everything else builds on his work.
+
+---
+
+## Image Prompt
+
+```
+70s prog rock album cover style portrait, male figure with long hair and contemplative expression, wearing a vintage band shirt, holding or near an electric guitar with extended fretboard, thoughtful introspective pose looking slightly away, psychedelic art nouveau linework with geometric patterns, deep purple and indigo gradient background (#4B0082 to #2E0854), screen-print texture with subtle cosmic elements, Roger Dean meets Stanley Mouse aesthetic, mysterious and intellectual energy, square format avatar icon
+```
+
+### Color Palette
+- **Primary Background:** #4B0082 (Indigo)
+- **Secondary Background:** #2E0854 (Deep Purple)
+- **Accent Colors:** Silver/chrome highlights, cosmic blue wisps
+- **Style Reference:** Yes album covers, Tool artwork, prog rock posters, 70s psychedelic art

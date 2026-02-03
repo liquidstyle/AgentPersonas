@@ -35,6 +35,7 @@ CHECK="✅"
 FIRE="🔥"
 PEN="🖊️"
 MOON="🌙"
+MEGAPHONE="📣"
 
 # ============================================================================
 # Parse arguments
@@ -127,7 +128,7 @@ echo ""
 echo -e "${YELLOW}Installing personas...${NC}"
 
 # Duke - The Orchestrator
-echo -e "  ${GUITAR} Duke (The Orchestrator)..."
+echo -e "  ${MEGAPHONE} Duke (The Orchestrator)..."
 cat > "$PERSONAS_DIR/duke.md" << 'DUKE_PERSONA'
 # Duke - The Orchestrator
 
@@ -372,7 +373,7 @@ echo ""
 echo -e "${YELLOW}Installing agents...${NC}"
 
 # Duke agent
-echo -e "  ${GUITAR} @duke agent..."
+echo -e "  ${MEGAPHONE} @duke agent..."
 cat > "$AGENTS_DIR/duke.md" << 'DUKE_AGENT'
 ---
 name: duke
@@ -538,7 +539,7 @@ echo -e "${CYAN}Location:${NC} ${YELLOW}${INSTALL_LOCATION}${NC}"
 echo ""
 echo -e "${CYAN}The Grind Crew is ready to rock:${NC}"
 echo ""
-echo -e "  ${GUITAR}  ${YELLOW}@duke${NC}   - Team lead, routes work"
+echo -e "  ${MEGAPHONE}  ${YELLOW}@duke${NC}   - Team lead, routes work"
 echo -e "  ${GUITAR}  ${YELLOW}@riff${NC}   - Backend & architecture"
 echo -e "  ${RECORD}  ${YELLOW}@verse${NC}  - Frontend & UI/UX"
 echo -e "  ${DRUM}  ${YELLOW}@crash${NC}  - Testing & QA"

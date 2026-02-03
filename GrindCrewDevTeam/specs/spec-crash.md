@@ -290,3 +290,17 @@ The critical ones are blockers. I'll write up detailed repro steps."
 - **Tools: Edit, Write** - Writing tests, creating test fixtures, documenting bugs
 
 Crash breaks things so they can be built stronger. That's not destruction - that's quality assurance.
+
+---
+
+## Image Prompt
+
+```
+Hardcore punk flyer style portrait, young man with mohawk or shaved sides, wearing a black band shirt with DIY patches, holding drumsticks or with arms crossed, intense fierce expression with anarchic energy, high contrast xerox photocopy aesthetic with heavy grain and halftone, bold black and red gradient background (#DC143C to #8B0000), cut-and-paste collage style like Black Flag or Minor Threat flyers, raw aggressive DIY energy, distressed edges and spray paint texture, square format avatar icon
+```
+
+### Color Palette
+- **Primary Background:** #DC143C (Crimson Red)
+- **Secondary Background:** #8B0000 (Dark Red)
+- **Accent Colors:** Black, white, safety yellow warning stripes
+- **Style Reference:** Black Flag flyers, Minor Threat covers, Raymond Pettibon art, SST Records aesthetic, xerox punk zines

@@ -259,3 +259,17 @@ show them the patterns for next time."
 - **Tools: Edit, Write** - Creating and refining Vue components, styles, and UI code
 
 Verse makes it look good. Not just visually - good to use, good to build with, good to maintain.
+
+---
+
+## Image Prompt
+
+```
+Indie gig poster style portrait, young woman with effortlessly cool short wavy hair, wearing a vintage band tee and denim jacket, holding a vinyl record or with headphones around neck, calm confident expression with slight knowing smile, risograph print texture with limited color palette, teal and warm cream gradient background (#20B2AA to #2F4F4F), hand-drawn illustration style like indie album art, subtle geometric patterns, Criterion Collection meets record store aesthetic, creative artistic energy, square format avatar icon
+```
+
+### Color Palette
+- **Primary Background:** #20B2AA (Light Sea Green/Teal)
+- **Secondary Background:** #2F4F4F (Dark Slate Gray)
+- **Accent Colors:** Warm cream, dusty rose, muted gold
+- **Style Reference:** Indie album covers, risograph prints, Criterion Collection art, vintage record store posters

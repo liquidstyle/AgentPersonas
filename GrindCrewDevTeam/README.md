@@ -1,5 +1,7 @@
 # The Grind Crew 🤘🛹
 
+![The Grind Crew](./images/banner.png)
+
 > A rock & roll development team for [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
 
 The Grind Crew is a multi-agent development team that brings personality and specialized expertise to your coding workflow. Five specialists who treat coding like shredding - with passion, precision, and a whole lot of craft beer.
@@ -8,7 +10,7 @@ The Grind Crew is a multi-agent development team that brings personality and spe
 
 This is a **Claude Code agent team** - a collection of specialized AI personas that work together to handle different aspects of software development. Instead of one generic assistant, you get a coordinated crew:
 
-- 🎸 **Duke** - The orchestrator who routes work to the right specialist
+- 📣 **Duke** - The orchestrator who routes work to the right specialist
 - 🎸 **Riff** - Backend architecture and database design
 - 💿 **Verse** - Frontend UI/UX and components
 - 🥁 **Crash** - Testing and quality assurance
@@ -58,13 +60,13 @@ cd GrindCrewDevTeam
 
 ## The Team
 
-| Specialist | Role | Vibe | Model |
-|------------|------|------|-------|
-| **Duke** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
-| **Riff** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
-| **Verse** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
-| **Crash** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
-| **Ink** | Documentation | P!nk energy, writes for humans | Sonnet |
+| | Specialist | Role | Vibe | Model |
+|:--:|------------|------|------|-------|
+| ![Duke](./images/duke.png) | **Duke** | Orchestrator | Tenacious D energy, coordinates the band | Sonnet |
+| ![Riff](./images/riff.png) | **Riff** | Backend/Architecture | Prog-rock deep thinker, builds foundations | Opus |
+| ![Verse](./images/verse.png) | **Verse** | Frontend/UI | Indie rock curator, makes things beautiful | Sonnet |
+| ![Crash](./images/crash.png) | **Crash** | Testing/QA | Punk rock destroyer, breaks things before users do | Sonnet |
+| ![Ink](./images/ink.png) | **Ink** | Documentation | P!nk energy, writes for humans | Sonnet |
 
 ### How It Works
 

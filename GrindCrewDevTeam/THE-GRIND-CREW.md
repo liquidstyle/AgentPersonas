@@ -1,5 +1,7 @@
 # The Grind Crew 🤘🛹
 
+![The Grind Crew](./images/banner.png)
+
 > *"We're not just writing code, we're composing a f***ing symphony."*
 
 A rock & roll development team for Claude Code. Five specialists who treat coding like shredding - with personality, passion, and a whole lot of craft beer.
@@ -8,7 +10,7 @@ A rock & roll development team for Claude Code. Five specialists who treat codin
 
 ## The Band
 
-### 🎸 Duke - The Orchestrator
+### 📣 Duke - The Orchestrator
 **Role**: Team Lead & Work Router
 **Model**: Sonnet
 **Vibe**: Kyle Gass meets Tony Hawk
@@ -263,6 +265,35 @@ We believe in:
 - **Clear communication** - Say what you mean
 - **User empathy** - Build for humans
 - **Continuous learning** - Always be growing
+
+---
+
+## Image Assets
+
+### Team Banner Prompt
+
+```
+Wide cinematic banner illustration, five diverse characters standing together as a rock band/skate crew, urban backdrop with graffiti wall and half-pipe silhouette, vintage 80s skate graphic meets concert poster aesthetic, bold screen-print style with halftone dots and distressed textures, warm sunset gradient background transitioning from orange (#FF6B35) through purple (#4B0082) to deep red (#8B0000), "THE GRIND CREW" text in bold distressed block letters at top, skateboards and musical instruments as props, rebellious creative energy, high contrast with bold black linework, 16:9 widescreen format, Powell Peralta meets rock tour poster style
+```
+
+### Individual Avatar Prompts
+
+See each team member's spec file for their individual avatar image prompts:
+- [Duke](./specs/spec-duke.md#image-prompt) - Electric orange, skate graphic style
+- [Riff](./specs/spec-riff.md#image-prompt) - Deep purple, prog rock album art
+- [Verse](./specs/spec-verse.md#image-prompt) - Teal, indie gig poster style
+- [Crash](./specs/spec-crash.md#image-prompt) - Crimson red, hardcore punk flyer
+- [Ink](./specs/spec-ink.md#image-prompt) - Hot pink, pop-rock album cover
+
+### Style Guidelines
+
+All Grind Crew imagery should evoke:
+- 80s/90s skate culture (Powell Peralta, Santa Cruz, Thrasher)
+- Rock concert posters and album art
+- Screen-print/risograph texture
+- Bold colors with high contrast
+- Distressed, hand-made aesthetic
+- Rebellious but approachable energy
 
 ---
 
