@@ -29,11 +29,14 @@ Each specialist has their own personality, expertise, catchphrases, and communic
 git clone https://github.com/yourusername/ViewAskewDevTeam.git
 cd ViewAskewDevTeam
 
+# Make the install script executable (first time only)
+chmod +x ./installs/askewniverse-install.sh
+
 # Install to your current project (local)
-./installs/install-askewniverse.sh
+./installs/askewniverse-install.sh
 
 # OR install globally for all projects
-./installs/install-askewniverse.sh -g
+./installs/askewniverse-install.sh -g
 ```
 
 ### Use
@@ -61,10 +64,10 @@ cd ViewAskewDevTeam
 
 ```bash
 # Remove from current project
-./installs/uninstall-askewniverse.sh
+./installs/askewniverse-uninstall.sh
 
 # Remove global installation
-./installs/uninstall-askewniverse.sh -g
+./installs/askewniverse-uninstall.sh -g
 ```
 
 ## The Team
@@ -151,8 +154,8 @@ ViewAskewDevTeam/
 │   └── spec-rufus.md
 ├── images/                           # Character avatars
 ├── installs/
-│   ├── install-askewniverse.sh      # Install script
-│   └── uninstall-askewniverse.sh    # Uninstall script
+│   ├── askewniverse-install.sh      # Install script
+│   └── askewniverse-uninstall.sh    # Uninstall script
 ├── presentation/
 │   └── askewniverse-dev-team.pdf    # Overview presentation
 └── vscode/

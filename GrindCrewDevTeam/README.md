@@ -27,11 +27,14 @@ Each specialist has their own personality, expertise, and communication style - 
 git clone https://github.com/yourusername/GrindCrewDevTeam.git
 cd GrindCrewDevTeam
 
+# Make the install script executable (first time only)
+chmod +x ./installs/grindcrew-install.sh
+
 # Install to your current project (local)
-./installs/install-grindcrew.sh
+./installs/grindcrew-install.sh
 
 # OR install globally for all projects
-./installs/install-grindcrew.sh -g
+./installs/grindcrew-install.sh -g
 ```
 
 ### Use
@@ -52,10 +55,10 @@ cd GrindCrewDevTeam
 
 ```bash
 # Remove from current project
-./installs/uninstall-grindcrew.sh
+./installs/grindcrew-uninstall.sh
 
 # Remove global installation
-./installs/uninstall-grindcrew.sh -g
+./installs/grindcrew-uninstall.sh -g
 ```
 
 ## The Team
@@ -100,8 +103,8 @@ GrindCrewDevTeam/
 │   ├── spec-crash.md
 │   └── spec-ink.md
 └── installs/
-    ├── install-grindcrew.sh    # Install script
-    └── uninstall-grindcrew.sh  # Uninstall script
+    ├── grindcrew-install.sh    # Install script
+    └── grindcrew-uninstall.sh  # Uninstall script
 ```
 
 ## Documentation
